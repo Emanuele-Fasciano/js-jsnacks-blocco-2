@@ -24,3 +24,19 @@ let array2 = [
     9,
     10,
 ]
+
+let shortArray = array1.length
+let longArray = array2.length
+
+
+for (let i = 0; i < longArray; i++) {
+
+    if (shortArray != longArray) {
+        shortArray++;
+    }
+}
+
+console.log(longArray);
+console.log(shortArray);
+
+

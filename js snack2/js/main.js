@@ -10,18 +10,18 @@ const greenNumber = document.getElementById("text_green");
 // console.log(redNumber);
 
 const numbersList = [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
+    14,
+    52,
+    37,
+    46,
+    51,
+    69,
+    74,
+    18,
+    92,
+    16,
+    91,
+    32,
 ]
 
 const numberEven = []
